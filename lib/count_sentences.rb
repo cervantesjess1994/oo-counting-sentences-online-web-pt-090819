@@ -28,5 +28,9 @@ class String
 
   def count_sentences
     self.size
+    if self.size == 0
+      return 0
+    else
+      return self.size
   end
 end
