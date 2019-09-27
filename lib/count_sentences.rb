@@ -32,5 +32,6 @@ class String
       return 0
     else
       return self.size
+    end
   end
 end
