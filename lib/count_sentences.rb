@@ -28,6 +28,5 @@ class String
 
   def count_sentences
     self.size
-    puts self.size
   end
 end
